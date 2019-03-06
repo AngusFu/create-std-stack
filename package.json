@@ -62,5 +62,9 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "dependencies": {
+    "create-standard": "^1.0.4",
+    "esm": "^3.2.11"
   }
 }
